@@ -101,7 +101,7 @@
         },
         {
             "id": 9,
-            "name": "this for test this sapi issu i dond taya ",
+            "name": "this for test sapi issu i dond taya ",
             "description": "this better descripyion of thisd page i don dont even undstab ang things that is going on here i since morning tmi time am here to do this project t please helper help me to achive this this plesae god thanks is you like you can and more than this in your project to make more beautiful please  please God i want to make billion naira on this project ",
             "price": 12,
             "stars": 5,
